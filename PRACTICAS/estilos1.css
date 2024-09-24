@@ -1,0 +1,80 @@
+#contenedor{
+width:90%;
+margin: auto;
+background-color:#c5e0dc;
+}
+#encabezado{
+ text-align: center;
+background-color: #ece5ce;
+align-self: center;
+}
+#menu{
+background-color:#f1d4af;
+text-align: center;
+}
+
+#derecha{ 
+float:right;
+background-color:#e08e79;
+width:80%;
+}
+#izquierda {
+    width: 200px; 
+    background-color: #81e7de;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    position: fixed; 
+    top: 50%; 
+    transform: translateY(-50%);
+    left: 6%; 
+  }
+  
+  #izquierda h5 {
+    margin-bottom: 10px;
+  }
+  
+  #izquierda a {
+    color: #333; 
+    text-decoration: none; 
+    display: block; 
+    padding: 10px; 
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  #izquierda a:hover {
+    background-color: #eee; 
+    color: #666; 
+  }
+  
+  #izquierda h5:last-child a {
+    border-bottom: none; 
+  }
+
+#piepagina{
+Clear: both; background-color: #a79c8e;
+}
+.image {
+    width: 400px; 
+    height: 300px;
+    border: 1px solid #000; 
+    border-radius: 5px;
+    margin: 10px; 
+  }
+  
+  .image:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .image2 {
+    width: 200px; 
+    height: 150px;
+    border: 1px solid #000; 
+    border-radius: 5px;
+    margin: 10px; 
+  }
+  
+  .image:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
